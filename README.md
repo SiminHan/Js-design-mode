@@ -1,2 +1,3 @@
-# Js-design-mode
-javascript design mode  
+# Js-design-mode JavaScript设计模式
+
+这里主要记录一些自己学习JavaScript设计模式的dome和心得。之前没有觉得设计模式有啥，随便看了看，后来看了些框架源码，发现设计模式还是很重要的，所以准备再比较系统地整理一遍设计模式的东西。
